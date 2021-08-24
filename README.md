@@ -8,3 +8,4 @@ CC0 1.0 Universal Legal Code applies except for personal picture
 - John Gardner https://icon-icons.com/pack/File/2148
 - Terence Eden https://icon-icons.com/pack/SuperTiny/2108
 - CoreUI https://icon-icons.com/pack/Coreui-Brands/2389
+- Stephen Hutchings https://icon-icons.com/category/User-Interface-&-Gesture/36
