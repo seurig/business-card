@@ -1,0 +1,9 @@
+#Rewrite everything to https
+RewriteEngine On
+RewriteCond %{HTTPS} !=on 
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+#Remove www
+RewriteEngine On
+RewriteCond %{HTTP_HOST} www.sebastian.seurig.com
+RewriteRule (.*) https://sebastian.seurig.com/$1 [R=301,L]
